@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\pokemonapi\\controller\\pokemonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\controller\\pokemonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\pokemonapi\\view\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\view\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\roney\\documents\\github\\programaci\u00F3n cuarto cuatrimestre\\pokemonapi\\pokemonapi\\pokemonapi\\view\\main.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\view\\main.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\pokemonapi\\models\\pokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC3F127-4A92-4C44-9BCB-41B84055A0BD}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\models\\pokemons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\View\\main.aspx.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\View\\main.aspx.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\View\\main.aspx.cs",
+              "RelativeToolTip": "PokemonAPI\\View\\main.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:48:39.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemons.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Models\\Pokemons.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Models\\Pokemons.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Models\\Pokemons.cs",
+              "RelativeToolTip": "PokemonAPI\\Models\\Pokemons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.aspx",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\View\\main.aspx",
+              "RelativeDocumentMoniker": "PokemonAPI\\View\\main.aspx",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\View\\main.aspx",
+              "RelativeToolTip": "PokemonAPI\\View\\main.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-11T15:39:38.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonsController.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Controller\\PokemonsController.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Controller\\PokemonsController.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Controller\\PokemonsController.cs",
+              "RelativeToolTip": "PokemonAPI\\Controller\\PokemonsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:34:09.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
